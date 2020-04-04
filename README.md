@@ -4,22 +4,17 @@
 In this project our goal will be implementing a stochastic gradient descent algorithm for a neural network with one hidden layer.
 
 #### NNOneSplit function
-See our implementation of NNetOneSplit function using R language [here](NNetOneSplit.R).
+See our implementation of NNetOneSplit function using Python language [here](NNetOneSplit.R).
 
 #### Gradient Descent Algorithm
-You can also see our implementation of Gradient Descent Algorithm using R language [here](GradientDescent.R).
+You can also see our implementation of Gradient Descent Algorithm using Python language [here](GradientDescent.R).
 
 ## How to run it
 ### 1 Environment Configuration
-#### 1.1 Install R
-Because the project is written in R language, so it is necessary to have R on your machine.
+#### 1.1 Install Python
+Because the project is written in Python language, so it is necessary to have Python on your machine.
 
-You can download R [here](https://www.r-project.org/) and install it.
-
-#### 1.2 Install RStudio
-This is the easiest way for everyone can run the project.
-
-You can download RStudio [here](https://rstudio.com/products/rstudio/download/#download) and install it.
+You can download Python [here](https://www.python.org/downloads/) and install it.
 
 ### 2 Having the project
 #### 2.1 Download the project
