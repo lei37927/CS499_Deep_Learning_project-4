@@ -36,7 +36,7 @@ Open Jupyter Notebook in your browser and open
 project4.ipynb
 ```
 
-#### 3.2 Open R files
+#### 3.2 Run it
 Click 'run' to run each cell.
 
 Maybe you need to wait for a while in some cells to train and load.
