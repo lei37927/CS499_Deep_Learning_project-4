@@ -12,7 +12,7 @@ You can also see our implementation of Gradient Descent Algorithm using R langua
 #### Just in case
 In case you cannot run the notebook, we have generated a web page version of the notebook with outputs.
 
-See it [here](project4.html).
+See it [here](https://cefns.nau.edu/~zl248/cs499dl/project4) or source code [here](project4.html).
 
 ## How to run it
 ### 1 Environment Configuration
