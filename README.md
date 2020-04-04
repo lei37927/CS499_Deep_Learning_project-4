@@ -9,7 +9,7 @@ See our implementation of NNetOneSplit function using R language [here](https://
 #### Gradient Descent Algorithm
 You can also see our implementation of Gradient Descent Algorithm using R language [here](https://github.com/lei37927/CS499_Deep_Learning_Project-1/blob/master/GradientDescent.R).
 
-#### Just in case
+## Just in case
 In case you cannot run the notebook, we have generated a web page version of the notebook with outputs.
 
 See it [here](https://cefns.nau.edu/~zl248/cs499dl/project4) or source code [here](project4.html).
